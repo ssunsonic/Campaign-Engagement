@@ -2,7 +2,7 @@
 
 **Context**: 
 
-This is a hypothetical business case scenario for a global cloud service provider. The company, CloudCity, wants to better understand their marketing campaign engagement rate through Machine Learning and Data Science techniques. CloudCity keeps a extensive database that tracks various customer characteristics, such as:
+This is a fictitious business case scenario for a global cloud service provider. The data was obtained through UC Davis Data Science Club. The company, CloudCity, wants to better understand their marketing campaign engagement rate through Machine Learning and Data Science techniques. CloudCity keeps a extensive database that tracks various customer characteristics, such as:
 
 - Account Type
 - Business Size
